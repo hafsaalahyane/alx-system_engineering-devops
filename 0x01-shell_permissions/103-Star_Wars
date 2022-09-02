@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo apt install mplayer
 mplayer -vo StarWars IV episode
